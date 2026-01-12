@@ -15,7 +15,9 @@ Dieser Simulator demonstriert, wie automatisierte Skripte versuchen, Passwörter
 - **Datenbank:** Passwortliste bestehend aus 10.000 deutsche Wörter.
 
 ## 📋 Installation & Nutzung
-1. Starte den Simulator mit python brute.py.
+1. Starte den Simulator im Terminal.
+2. Command "python brute.py." einfügen.
+3. Passwort welches man testen will eingeben. 
 
 ## ⚠️ Disclaimer
 Dieses Projekt wurde ausschließlich zu Bildungszwecken entwickelt.
