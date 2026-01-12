@@ -16,7 +16,7 @@ Dieser Simulator demonstriert, wie automatisierte Skripte versuchen, Passwörter
 
 ## 📋 Installation & Nutzung
 1. Starte den Simulator im Terminal.
-2. Command "python brute.py." einfügen.
+2. Command "python brute.py" einfügen.
 3. Passwort welches man testen will eingeben. 
 
 ## ⚠️ Disclaimer
