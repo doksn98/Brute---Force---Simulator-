@@ -8,15 +8,15 @@ Dieser Simulator demonstriert, wie automatisierte Skripte versuchen, Passwörter
 ## 🚀 Funktionen
 - **Echtzeit-Simulation:** Visualisierung des Trial-and-Error-Prozesses.
 - **Komplexitätsanalyse:** Berechnung der benötigten Zeit basierend auf Zeichensatz und Länge.
-- **Sicherheits-Check:** Bewertung der Passwortstärke gegen gängige Angriffsmuster.
 
 ## 🛠️ Technologien
 - **Sprache:** Python 
 - **Konzepte:** Kryptographie-Grundlagen, Iterations-Logik, String-Manipulation.
+- **Datenbank:** Passwortliste bestehend aus 10.000 deutsche Wörter.
 
 ## 📋 Installation & Nutzung
 1. Repository klonen oder ZIP herunterladen.
-2. Die Datei `[Hauptdatei.endung]` ausführen.
+2. Die Datei `brute.py` ausführen.
 3. Ein Test-Passwort eingeben und den Simulationsprozess beobachten.
 
 ## ⚠️ Disclaimer
