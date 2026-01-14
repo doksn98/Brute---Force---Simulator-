@@ -29,5 +29,6 @@ def brute_force_simulation(target_hash, wordlist_path):
         return "\nFehler: Datei nicht gefunden!"
 
 if __name__ == "__main__":
-    target_input = input("Gib den SHA256-Hash ein, den du knacken willst: ").strip().lower()
+    target_input = input("SHA256-Hash eingeben: ").strip().lower()
     print(brute_force_simulation(target_input, "passwoerter.txt"))
+
